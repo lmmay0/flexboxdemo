@@ -34,7 +34,18 @@ h3  {
   ol, ul {
     list-style: none;
   }
-
+  .flex-container{
+    background-color: #03cae4;
+    
+    color: #fff;
+    border: none;
+    display: block;
+    width: 100%;
+    cursor: help;
+    font-size: 1.1rem;
+    font-family: inherit;
+    padding: 1.3rem;
+  }
 
   /* Matches the font of special elements to the rest of the page */
   input, select, option, optgroup, textarea, button,
